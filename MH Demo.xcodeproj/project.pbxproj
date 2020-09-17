@@ -14,6 +14,8 @@
 		C584274125140B8600E541C4 /* MH_Demo.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C584273F25140B8600E541C4 /* MH_Demo.xcdatamodeld */; };
 		C584274325140B8A00E541C4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C584274225140B8A00E541C4 /* Assets.xcassets */; };
 		C584274625140B8A00E541C4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C584274425140B8A00E541C4 /* LaunchScreen.storyboard */; };
+		C584274E25140C4900E541C4 /* DemoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C584274D25140C4900E541C4 /* DemoViewController.swift */; };
+		C5F5058F25142A9400B8C26D /* ButtonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5F5058E25142A9400B8C26D /* ButtonViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		C584274225140B8A00E541C4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C584274525140B8A00E541C4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C584274725140B8A00E541C4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C584274D25140C4900E541C4 /* DemoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoViewController.swift; sourceTree = "<group>"; };
+		C5F5058E25142A9400B8C26D /* ButtonViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				C584273625140B8600E541C4 /* AppDelegate.swift */,
 				C584273825140B8600E541C4 /* SceneDelegate.swift */,
 				C584273A25140B8600E541C4 /* ViewController.swift */,
+				C584274D25140C4900E541C4 /* DemoViewController.swift */,
+				C5F5058E25142A9400B8C26D /* ButtonViewController.swift */,
 				C584273C25140B8600E541C4 /* Main.storyboard */,
 				C584274225140B8A00E541C4 /* Assets.xcassets */,
 				C584274425140B8A00E541C4 /* LaunchScreen.storyboard */,
@@ -145,6 +151,8 @@
 				C584274125140B8600E541C4 /* MH_Demo.xcdatamodeld in Sources */,
 				C584273725140B8600E541C4 /* AppDelegate.swift in Sources */,
 				C584273925140B8600E541C4 /* SceneDelegate.swift in Sources */,
+				C5F5058F25142A9400B8C26D /* ButtonViewController.swift in Sources */,
+				C584274E25140C4900E541C4 /* DemoViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
